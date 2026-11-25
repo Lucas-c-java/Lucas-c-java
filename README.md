@@ -19,7 +19,7 @@
 
 ## 📂 Projets
 
-### [Paraway (parakeet-scarer)](https://github.com/Lucas-c-java/parakeet-scarer) — Arduino UNO Q, ESP32, BLE
+### [Paraway (parakeet-scarer)](https://github.com/Lucas-c-java/paraway) — Arduino UNO Q, ESP32, BLE
 *Projet d'équipe de cinq étudiants, ESIEE Paris (mai à juin 2026).*
 
 Dispositif de dissuasion des perruches basé sur l'IA : une caméra sur Arduino UNO Q détecte les perruches avec un modèle Edge Impulse (96 % de précision sur 8 283 images), puis déclenche des modules ESP32 par Bluetooth Low Energy.
